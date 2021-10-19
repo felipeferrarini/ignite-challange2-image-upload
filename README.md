@@ -1,6 +1,5 @@
 <h1 align="center">
-  upfi
-  <img alt="upfi web" src="https://user-images.githubusercontent.com/64620879/137833235-b77a20bc-36fb-40a9-b289-1d2382215ff7.png">
+  <img alt="upfi web" src="https://user-images.githubusercontent.com/64620879/137833235-b77a20bc-36fb-40a9-b289-1d2382215ff7.png" style="width: 300px;">
 </h1>
 
 <p align="center">
